@@ -9,8 +9,10 @@ It allows users to search for any city and get real-time weather details includi
 
 ## 📸 Screenshot
 
+<img width="1280" height="1024" alt="Screenshot (151)" src="https://github.com/user-attachments/assets/dbab822e-0aae-427f-b844-ca108af2d461" />
 
 ---
+
 
 ## 🚀 Features
 - 🌎 Search weather by **city name**
