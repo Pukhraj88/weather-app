@@ -1,5 +1,7 @@
 # 🌤 Weather App
 
+# Note- Api will Expire on 20-Aug-2025 Its Free Trail.
+
 A simple and responsive **Weather App** built using **React**, **Axios**, and the [WeatherAPI](https://www.weatherapi.com/).  
 It allows users to search for any city and get real-time weather details including temperature, humidity, condition, and more.
 
@@ -9,7 +11,8 @@ It allows users to search for any city and get real-time weather details includi
 
 ## 📸 Screenshot
 
-<img width="1280" height="1024" alt="Screenshot (151)" src="https://github.com/user-attachments/assets/dbab822e-0aae-427f-b844-ca108af2d461" />
+<img width="1280" height="1024" alt="Screenshot (153)" src="https://github.com/user-attachments/assets/02c6173f-f7ce-4d49-830d-b9ecc405d918" />
+
 
 ---
 
